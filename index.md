@@ -10,6 +10,13 @@
   
   [Click here to view the source code](https://github.com/chriswilloughby3/CSCapstone/blob/master/fiveStageSimulator.c)
 
+## Algorithms and Data Structures
+
+### Implementation of a Binary Search Tree
+
+  The binary search tree (BST) program that I included uses a BST data structure to store and organize a special data type called Bid, which contains information on items sold through an auction.  The original program was written in C++ on October 11, 2017 for the CS-260 course.
+  
+  I selected the specialized BST implementation for the algorithms and data structures portion of my ePortfolio because it demonstrates my ability to program using the C++ programing language and that I have solid understanding of how to write and implement recursive algorithms that require the use of custom data types.  
 
 
 
