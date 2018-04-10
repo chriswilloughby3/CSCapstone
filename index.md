@@ -8,6 +8,8 @@
   
   I selected the microprocessor simulator for the engineering portion of my ePortfolio because it demonstrates my ability to create, design, and test hardware while abstracting the physical components into software.  The simulator also shows that I have the ability to program in C and that I understand modern microprocessor architecture and design.
   
+  The initial five-stage pipeline was straightforward but it required NOOP instructions to be inserted into the pipeline for every type of data hazard.  The main challenge was implementing the look ahead functionally that eliminated the need for NOOP instructions to be inserting for the SW, ADD, NOR, and some of the LW instructions.  Even though not all of the NOOP instructions were eliminated, the look ahead ability reduce the number NOOP insertions and brought the microprocessor close to executing one instruction per-cycle.
+  
   [Click here to view the source code](https://github.com/chriswilloughby3/CSCapstone/blob/master/fiveStageSimulator.c)
 
 ## Algorithms and Data Structures
@@ -17,6 +19,8 @@
   The binary search tree (BST) program that I included uses a BST data structure to store and organize a special data type called Bid, which contains information on items sold through an auction.  The original program was written in C++ on October 11, 2017 for the CS-260 course.
   
   I selected the specialized BST implementation for the algorithms and data structures portion of my ePortfolio because it demonstrates my ability to program using the C++ programing language and that I have solid understanding of how to write and implement recursive algorithms that require the use of custom data types. 
+  
+  I ran into several issues when translating the binary search tree program from C++ to Java.  The first major issue that I ran into is that Java is more object oriented than C++, so I need to restructure the custom data types into their own classes and therefore resulted in me separating those classes into their own Java files as well for ease of reading the code.  The next major issue that I ran into was that my implementation of the BST in C++ was done primarily by the manipulation of pointers because C++ implements the concept of pass by reference, whereas Java only implements pass by value and therefore caused me to redesign the algorithms to properly function using pass by value.  The final issue that I had when translating the BST program from C++ to Java is that C++ requires the programmer to allocate and release dynamic memory, whereas Java manages the release of dynamic memory for the programmer and therefore required me to remove all of the implementations of the destructor functions.  
   
   [Click here to view the source code](https://github.com/chriswilloughby3/CSCapstone/tree/master/BST%20Application)
   
