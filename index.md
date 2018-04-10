@@ -19,6 +19,15 @@
   I selected the specialized BST implementation for the algorithms and data structures portion of my ePortfolio because it demonstrates my ability to program using the C++ programing language and that I have solid understanding of how to write and implement recursive algorithms that require the use of custom data types. 
   
   [Click here to view the source code](https://github.com/chriswilloughby3/CSCapstone/tree/master/BST%20Application)
+  
+## Databases
+
+### Implementation of a MongoDB RESTful API
+
+  The MongoDB RESTful API was created to provide an interface between the Mongo Database native CRUD operations and an outside program or website.  The original program was written in PyMongo on January 15, 2018 for the CS-340 course.
+
+  I selected the MongoDB RESTful API for the databases portion of my ePortfolio because it demonstrates my ability to implement modern programming techniques for web services, to use the Python scripting language, and to work with modern databases like Mongo.
+
 
 ## Welcome to GitHub Pages
 
