@@ -1,3 +1,16 @@
+# Portfolio
+
+## Software Design and Engineering
+
+### Microprocessor Simulator Discription
+
+  The original single stage and parts of the five-stage pipeline microprocessor simulator was created during the winter semester of 2015 at the University of Michigan as part the of microprocessor class that I have completed there.  The purpose of the simulator is to create a microprocessor in software that can execute a provided instruction set architecture.
+
+	I selected the microprocessor simulator for the engineering portion of my ePortfolio because it demonstrates my ability to create, design, and test hardware while abstracting the physical components into software.  The simulator also shows that I have the ability to program in C and that I understand modern microprocessor architecture and design.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chriswilloughby3/CSCapstone/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
