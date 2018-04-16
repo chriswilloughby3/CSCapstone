@@ -4,9 +4,9 @@ Completing the Computer Science Program at Southern New Hampshire University has
 
 # Programing Projects
 
-## Software Design and Engineering
+## Code Review Video
 
-### Microprocessor Simulator Discription
+## Microprocessor Simulator Discription
 
   The original single stage and parts of the five-stage pipeline microprocessor simulator was created during the winter semester of 2015 at the University of Michigan as part the of microprocessor class that I have completed there.  The purpose of the simulator is to create a microprocessor in software that can execute a provided instruction set architecture.
   
@@ -16,9 +16,7 @@ Completing the Computer Science Program at Southern New Hampshire University has
   
   [Click here to view the source code](https://github.com/chriswilloughby3/CSCapstone/blob/master/fiveStageSimulator.c)
 
-## Algorithms and Data Structures
-
-### Implementation of a Binary Search Tree
+## Implementation of a Binary Search Tree
 
   The binary search tree (BST) program that I included uses a BST data structure to store and organize a special data type called Bid, which contains information on items sold through an auction.  The original program was written in C++ on October 11, 2017 for the CS-260 course.
   
@@ -28,9 +26,7 @@ Completing the Computer Science Program at Southern New Hampshire University has
   
   [Click here to view the source code](https://github.com/chriswilloughby3/CSCapstone/tree/master/BST%20Application)
   
-## Databases
-
-### Implementation of a MongoDB RESTful API
+## Implementation of a MongoDB RESTful API
 
   The MongoDB RESTful API was created to provide an interface between the Mongo Database native CRUD operations and an outside program or website.  The original program was written in PyMongo on January 15, 2018 for the CS-340 course.
 
