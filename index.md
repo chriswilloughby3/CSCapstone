@@ -1,4 +1,8 @@
-# Portfolio
+# Introduction
+
+Completing the Computer Science Program at Southern New Hampshire University has provided me a strong foundation to beginning a career in the Technology Industry.  The following three programing projects will demonstrate my ability to write code using industry standard languages and apply those languages to create programs that implement modern computer program techniques. The first program is a simulator for a microprocessor that implements a five-stage pipeline and shows my ability implement and a modern microprocessor that exists only in software using the C programming language.  The second program displays that I have a solid understanding of recursive algorithms and the ability to implement those algorithms in Java.  The final program exhibits my competence to enact a REST API for a modern database like Mongo with the Python programming language.  The three programs demonstrate that I possess the skill in a wide range of Computer Science concepts using industry standard programming languages.
+
+# Programing Projects
 
 ## Software Design and Engineering
 
