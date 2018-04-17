@@ -4,8 +4,7 @@ Completing the Computer Science Program at Southern New Hampshire University has
 
 # Programing Projects
 
-Forcing a line-break\s\s
-Next line in the list
+\s\s
 
 ## Code Review Video
 
