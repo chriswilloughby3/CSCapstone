@@ -6,6 +6,8 @@ Completing the Computer Science Program at Southern New Hampshire University has
 
 ## Code Review Video
 
+<video src="Code Review.mp4" width="320" height="200" controls preload></video>
+
 ## Microprocessor Simulator Discription
 
   The original single stage and parts of the five-stage pipeline microprocessor simulator was created during the winter semester of 2015 at the University of Michigan as part the of microprocessor class that I have completed there.  The purpose of the simulator is to create a microprocessor in software that can execute a provided instruction set architecture.
