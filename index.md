@@ -2,7 +2,7 @@
 
 Completing the Computer Science Program at Southern New Hampshire University has provided me a strong foundation to beginning a career in the Technology Industry.  The following three programing projects will demonstrate my ability to write code using industry standard languages and apply those languages to create programs that implement modern computer program techniques. The first program is a simulator for a microprocessor that implements a five-stage pipeline and shows my ability implement and a modern microprocessor that exists only in software using the C programming language.  The second program displays that I have a solid understanding of recursive algorithms and the ability to implement those algorithms in Java.  The final program exhibits my competence to enact a REST API for a modern database like Mongo with the Python programming language.  The three programs demonstrate that I possess the skill in a wide range of Computer Science concepts using industry standard programming languages.
 
-# Programing Projects\s\s
+# Programing Projects
 
 ## Code Review Video
 
@@ -34,43 +34,6 @@ Completing the Computer Science Program at Southern New Hampshire University has
 
   I selected the MongoDB RESTful API for the databases portion of my ePortfolio because it demonstrates my ability to implement modern programming techniques for web services, to use the Python scripting language, and to work with modern databases like Mongo.
   
-  Besides gaining more experience with the Python scripting when creating the RESTful API, I learned techniques to effectively troubleshoot scripting languages, which differs a bit from complied languages like C++.  The primary purpose of the enhancement was to make the API CRUD operations move universal by allowing different kinds of data types or formats to be passed into the functions.  By making the CRUD operation functions more universal will allow for easier integration and reusability of my MongoDB RESTful API for future applications. 
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/chriswilloughby3/CSCapstone/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chriswilloughby3/CSCapstone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Besides gaining more experience with the Python scripting when creating the RESTful API, I learned techniques to effectively troubleshoot scripting languages, which differs a bit from complied languages like C++.  The primary purpose of the enhancement was to make the API CRUD operations move universal by allowing different kinds of data types or formats to be passed into the functions.  By making the CRUD operation functions more universal will allow for easier integration and reusability of my MongoDB RESTful API for future applications.
+  
+  [Click here to view the source code](https://github.com/chriswilloughby3/CSCapstone/blob/master/RESTfulAPIEnhanced.py)
