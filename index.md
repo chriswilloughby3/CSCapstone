@@ -6,7 +6,7 @@ Completing the Computer Science Program at Southern New Hampshire University has
 
 ## Code Review Video
 
-<video src="Code Review.mp4" width="320" height="200" controls preload></video>
+<video src="https://github.com/chriswilloughby3/CSCapstone/blob/master/CodeReview.mp4" width="320" height="200" controls preload></video>
 
 ## Microprocessor Simulator Discription
 
